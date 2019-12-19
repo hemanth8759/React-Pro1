@@ -11,11 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-
-.bgi{
-  height: 400px;
-  background: url(../../spastar.jpg);
-    background-position: center;
-    background-size: cover;
-}
